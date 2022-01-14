@@ -1,20 +1,19 @@
-# Ceas cu alarmă folosind microcontrolerul ATmega32
+# Automatic Staircase Light with ATmega32
 Hardware:
 
-ATmega32 microcontroller, 
-11.0592MHz crystal, 
-22pF Capacitor (2 pieces), 
-Power supply (5v), 
-AVR-ISP PROGRAMMER, 
-JHD_162ALCD(16x2 LCD), 
-100uF capacitor (connected across power supply), 
-buttons (four pieces),  
-10KΩ resistor (six pieces), 
-100nF capacito r(four pieces), 
-Three pin switches (2 pieces), 
-2N2222 transistor, 
-Buzzer, 
-200Ω resistor.
+ATMEGA32A
+Power supply (5v),
+AVR-ISP PROGRAMMER
+100uF capacitor
+LED
+220Ω, 1KΩ resistors
+LDR(Light Dependent Resistor)
+100KΩ pot or preset,
+Any motion sensor module (HC-SR501)
+2WATT LED
+TIP122 transistor.
+
 
 Software:
-C programing language 
+Microchip Studio for AVR® and SAM
+AVRDUDES - For Atmega32 programing
