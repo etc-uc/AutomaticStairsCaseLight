@@ -21,7 +21,7 @@
 
 ## Breadboard OFF:
 
-![Image](BreadboardOFF.jpeg)
+![Image](Breadboard_OFF.jpeg)
 
 ## Breadboard ON:
 
